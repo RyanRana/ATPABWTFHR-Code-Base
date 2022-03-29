@@ -4,6 +4,8 @@ Water is one of the most necessary resources within an average household that ca
 <br><br>
 Video Presentation: https://www.youtube.com/watch?v=SY87T37Aa1w
 <br><br>
-Full Paper: https://www.researchsquare.com/article/rs-1328449/v1
+Original Paper: https://www.researchsquare.com/article/rs-1328449/v1
+<br><br>
+Official Publication: https://opastonline.com/open-access/around-the-pipe-audio-based-water-tracker-for-home-residents.pdf
 <br><br>
 Code: This includes original data and funtional neaural network for the data. 
